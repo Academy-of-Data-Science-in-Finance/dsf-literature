@@ -1,0 +1,64 @@
+---
+title: "Data Science in Finance - Literature Overview"
+author: "Academy of Data Science in Finance"
+---
+
+# Data Science in Finance - Literature Overview
+
+This curated list of literature in the field of Data Science in Finance is compiled by the 
+[Academy of Data Science in Finance](https://dsf.academy/) initiated at the First International Conference on Data Science in Finance which was held in Vienna Austria during September 2018.
+
+******
+
+## Data Science
+
+### Books
+
+- Pang-Ning Tan, Michael Steinbach, Vipin Kumar. [Introduction to Data Mining.](https://www-users.cs.umn.edu/~kumar001/dmbook/firsted.php) Wiley, 2005.
+- Michael Hahsler. [R Code to accompany the book Introduction to Data Mining by Tan, Steinbach and Kumar.](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/) GitHub, 2018
+- Peter Bruce and Andrew Bruce. [Practical Statistics for Data Scientists - 50 Essential Concepts.](http://shop.oreilly.com/product/0636920048992.do) O'Reilly Media, 2017.
+
+**Further References**
+
+*   Trevor Hastie, Robert Tibshirani and Jerome Friedman. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) Second Ed., Springer, 2009.
+*   Jure Leskovec, Anand Rajaraman and Jeff Ullman. [Mining of Massive Datasets.](http://www.mmds.org/) Second Ed., Cambridge University Press, 2014.
+
+**Data Science with R**
+
+- Garrett Grolemund and Hadley Wickham. [R for Data Science.](http://r4ds.had.co.nz/) O'Reilly Media, 2017.
+- Benjamin S. Baumer, Daniel T. Kaplan and Nicholas J. Horton. [Modern Data Science with R.](https://mdsr-book.github.io/) Chapman and Hall/CRC, 2017.
+
+### Papers
+
+******
+
+## Machine Learning in Finance
+
+### Books
+
+- Marcos Lopez de Prado. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086). Wiley, 2018. 
+
+### Papers
+
+******
+
+## Deep Learning
+
+### Books
+
+- Francois Chollet and J. J. Allaire. [Deep Learning with R.](https://www.manning.com/books/deep-learning-with-r) Manning, 2018.
+- Adam Gibson and Josh Patterson. [Deep Learning - A Practitioner's Approach.](http://shop.oreilly.com/product/0636920035343.do) O'Reilly Media, 2017.
+
+### Papers
+
+******
+
+## Optimization
+
+### Books
+
+- Gérard Cornuéjols, Javier Peña, Reha Tütüncü. [Optimization Methods in Finance.](http://admin.cambridge.org/academic/subjects/mathematics/mathematical-finance/optimization-methods-finance-2nd-edition) 2nd Ed., Cambridge University Press, 2018.
+    
+### Papers
+
+******
